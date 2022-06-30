@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @diotsani
+- 👋 Hi, I’m @diotsani & my name is Muhammad Dio Tsani Iba
+- 😅 You can call me Dio or Lezh
 - 👀 I’m interested in Game Programmer
-- 🌱 I’m currently learning Unity Game Programmer
+- 🌱 I’m currently learning Unity Game Programmer & C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : dio.tsani123@gmail.com || Discord : lezh#6885
 
