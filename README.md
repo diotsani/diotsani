@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : dio.tsani123@gmail.com || Discord : lezh#6885
 - https://flycatgames.itch.io/crib-in-school
+- www.linkedin.com/in/dio-tsani-9423b1244
 
 <!---
 diotsani/diotsani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
